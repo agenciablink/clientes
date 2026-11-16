@@ -14,7 +14,7 @@ window.BLINK_CLIENTS = [
     "pieces": [
       {
         "id": "P01",
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "week": 1,
         "type": "Post",
         "title": "La fachada también entra en campaña",
@@ -25,11 +25,14 @@ window.BLINK_CLIENTS = [
         "image": "img/creative-visual/P01.png",
         "status": "Por revisar",
         "notes": "",
-        "imageTarget": "img/creative-visual/P01.png"
+        "imageTarget": "img/creative-visual/P01.png",
+        "previousScheduledDate": "2026-11-15",
+        "width": 1080,
+        "height": 1350
       },
       {
         "id": "S01",
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "week": 1,
         "type": "Story",
         "title": "Prueba desde la vereda",
@@ -40,26 +43,14 @@ window.BLINK_CLIENTS = [
         "image": "img/creative-visual/S01.png",
         "status": "Por revisar",
         "notes": "",
-        "imageTarget": "img/creative-visual/S01.png"
-      },
-      {
-        "id": "S02",
-        "date": "2026-11-18",
-        "week": 1,
-        "type": "Story",
-        "title": "Jerarquía de vitrina",
-        "headline": "SI TODO GRITA,\nTU OFERTA NO SE ENTIENDE.",
-        "caption": "Elige un producto protagonista, un mensaje y un precio que se lea. La decoración acompaña. No tiene que competir. Guarda esta idea para tu vitrina navideña.",
-        "objective": "Enseñar jerarquía comercial sin recurrir a listas genéricas.",
-        "graphic": "Vitrina editorial con un regalo protagonista y cartel rectangular OFERTA NAVIDEÑA; tipografía blanca sobre azul, una flecha discreta indica el mensaje central; sin precios inventados.",
-        "image": "img/creative-visual/S02.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/S02.png"
+        "imageTarget": "img/creative-visual/S01.png",
+        "previousScheduledDate": "2026-11-16",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "P02",
-        "date": "2026-11-20",
+        "date": "2026-11-18",
         "week": 1,
         "type": "Post",
         "title": "Diseñar para lo que pasa afuera",
@@ -70,247 +61,28 @@ window.BLINK_CLIENTS = [
         "image": "img/creative-visual/P02.png",
         "status": "Por revisar",
         "notes": "",
-        "imageTarget": "img/creative-visual/P02.png"
+        "imageTarget": "img/creative-visual/P02.png",
+        "previousScheduledDate": "2026-11-20",
+        "width": 1080,
+        "height": 1350
       },
       {
-        "id": "S03",
-        "date": "2026-11-21",
+        "id": "S02",
+        "date": "2026-11-19",
         "week": 1,
         "type": "Story",
-        "title": "Brief inicial",
-        "headline": "TU FACHADA ES\nEL PUNTO DE PARTIDA.",
-        "caption": "Para evaluar una propuesta, envíanos una foto frontal, medidas aproximadas y el horario de atención. Con ese contexto podemos conversar sobre una solución para tu local. CTA: Enviar mi fachada.",
-        "objective": "Convertir interés en una consulta mejor preparada.",
-        "graphic": "Teléfono mostrando foto frontal de fachada ficticia, cinta métrica y luz lateral; tres campos visuales FOTO / MEDIDAS / HORARIO, espacio para enlace o mensaje.",
-        "image": "img/creative-visual/S03.png",
+        "title": "Jerarquía de vitrina",
+        "headline": "SI TODO GRITA,\nTU OFERTA NO SE ENTIENDE.",
+        "caption": "Elige un producto protagonista, un mensaje y un precio que se lea. La decoración acompaña. No tiene que competir. Guarda esta idea para tu vitrina navideña.",
+        "objective": "Enseñar jerarquía comercial sin recurrir a listas genéricas.",
+        "graphic": "Vitrina editorial con un regalo protagonista y cartel rectangular OFERTA NAVIDEÑA; tipografía blanca sobre azul, una flecha discreta indica el mensaje central; sin precios inventados.",
+        "image": "img/creative-visual/S02.png",
         "status": "Por revisar",
         "notes": "",
-        "imageTarget": "img/creative-visual/S03.png"
-      },
-      {
-        "id": "P03",
-        "date": "2026-11-23",
-        "week": 2,
-        "type": "Post",
-        "title": "Promoción sin ruido",
-        "headline": "TU PROMO NECESITA\nESPACIO PARA ENTENDERSE.",
-        "caption": "Una vitrina llena de mensajes obliga a buscar lo importante. Dale prioridad a una oferta y deja claros el producto, el precio y las condiciones que correspondan. El soporte también cuenta: ubícalo donde se vea sin bloquear el acceso. Podemos ayudarte a llevar tu campaña a piezas impresas para tu punto de venta.",
-        "objective": "Conectar diseño gráfico y soporte físico con claridad de oferta.",
-        "graphic": "Composición de vitrina ficticia con afiche azul y blanco titulado ESPECIAL NAVIDAD, una sola foto de producto sin precio inventado. Mucho aire, papel con textura leve y banda azul curva; pequeño detalle navideño plateado.",
-        "image": "img/creative-visual/P03.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/P03.png"
-      },
-      {
-        "id": "S04",
-        "date": "2026-11-24",
-        "week": 2,
-        "type": "Story",
-        "title": "Precio visible",
-        "headline": "¿EL PRECIO SE LEE\nO HAY QUE ADIVINARLO?",
-        "caption": "Si tu pieza comunica una oferta, el precio y sus condiciones necesitan espacio propio. Pruébala en pantalla pequeña antes de mandarla a imprimir.",
-        "objective": "Dar un criterio concreto para revisar artes comerciales.",
-        "graphic": "Acercamiento de afiche comercial ficticio sobre caballete con zona de precio tipográfica marcada como PRECIO, no monto. Lupa gráfica mínima, fondo blanco cálido y azul.",
-        "image": "img/creative-visual/S04.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/S04.png"
-      },
-      {
-        "id": "S05",
-        "date": "2026-11-26",
-        "week": 2,
-        "type": "Story",
-        "title": "Elegir por función",
-        "headline": "NO ES EL MISMO SOPORTE\nPARA CADA MENSAJE.",
-        "caption": "¿Una promoción que cambia? Evalúa una pieza reemplazable. ¿El nombre de tu negocio? Evalúa una solución pensada para permanecer. Primero define el uso; después, el formato.",
-        "objective": "Explicar diferencia entre señalización permanente y campaña temporal.",
-        "graphic": "Dos objetos distintos sobre fondo azul: letra corpórea blanca y afiche removible sobre caballete. Etiquetas IDENTIDAD / CAMPAÑA; composición diagonal editorial con espacio para texto.",
-        "image": "img/creative-visual/S05.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/S05.png"
-      },
-      {
-        "id": "P04",
-        "date": "2026-11-27",
-        "week": 2,
-        "type": "Post",
-        "title": "Ruta de compra dentro del local",
-        "headline": "ENTRÓ POR LA VITRINA.\n¿AHORA QUÉ VE?",
-        "caption": "La campaña continúa dentro del local. Procura que el producto anunciado sea fácil de ubicar, que su precio esté visible y que la señalización ayude a encontrar dónde consultar o pagar. Diseñar el exterior y el interior con el mismo lenguaje hace que la experiencia se sienta conectada. Conversemos sobre las piezas que necesita tu espacio.",
-        "objective": "Ampliar la conversación a señalización y piezas interiores.",
-        "graphic": "Perspectiva de tienda pequeña realista con entrada, exhibición y caja conectadas mediante una línea blanca muy sutil; señal CAJA legible, piezas azules coordinadas, titular alto. Sin inventar servicios de remodelación.",
-        "image": "img/creative-visual/P04.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/P04.png"
-      },
-      {
-        "id": "S06",
-        "date": "2026-11-29",
-        "week": 2,
-        "type": "Story",
-        "title": "Coherencia exterior interior",
-        "headline": "QUE TU PROMO NO\nSE PIERDA EN LA PUERTA.",
-        "caption": "Lo que anuncias en la vitrina debería reconocerse dentro del local: mismo producto, mismo mensaje y mismas condiciones. Revisa ese recorrido antes de diciembre.",
-        "objective": "Invitar a revisar continuidad de campaña.",
-        "graphic": "Dos planos de una misma tienda: cartel de vitrina y pequeña pieza en exhibidor con el mismo diseño ESPECIAL NAVIDAD; unión por pliegue de papel, no collage cargado.",
-        "image": "img/creative-visual/S06.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/S06.png"
-      },
-      {
-        "id": "P05",
-        "date": "2026-12-01",
-        "week": 3,
-        "type": "Post",
-        "title": "Iluminación con propósito",
-        "headline": "ENCIENDE TU MARCA.\nNO TODA LA FACHADA.",
-        "caption": "Las luces navideñas crean ambiente, pero el nombre de tu negocio debe seguir siendo protagonista. Revisa reflejos, contraste y elementos que compiten alrededor del letrero. La iluminación se define según el espacio y el material; no solo por cuánto brilla. Envíanos una foto nocturna de tu local para evaluar tu idea.",
-        "objective": "Diferenciar iluminación comercial de decoración estacional.",
-        "graphic": "Fotografía nocturna de letras corpóreas CASA con luz blanca controlada; azul profundo, halo realista y pequeña guirnalda fuera del letrero. Tipografía blanca fuerte, nada de exceso de neón.",
-        "image": "img/creative-visual/P05.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/P05.png"
-      },
-      {
-        "id": "S07",
-        "date": "2026-12-02",
-        "week": 3,
-        "type": "Story",
-        "title": "Acabados que se entienden",
-        "headline": "LA LUZ TAMBIÉN\nCAMBIA EL ACABADO.",
-        "caption": "La luz frontal y el halo posterior producen efectos distintos. Mira muestras y referencias en condiciones parecidas a las de tu local antes de decidir.",
-        "objective": "Ayudar a expresar preferencias visuales para cotizar.",
-        "graphic": "Dos muestras físicas de letra A sobre panel azul oscuro, una con frente luminoso y otra con halo posterior; etiquetas FRENTE LUMINOSO / HALO POSTERIOR. Presentar como ejemplos visuales, no catálogo confirmado.",
-        "image": "img/creative-visual/S07.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/S07.png"
-      },
-      {
-        "id": "S08",
-        "date": "2026-12-04",
-        "week": 3,
-        "type": "Story",
-        "title": "Decoración sin obstruir",
-        "headline": "UN MOÑO AQUÍ.\nTU NOMBRE LIBRE.",
-        "caption": "Antes de decorar, reserva el espacio del letrero, el ingreso y la señalización necesaria. Una buena composición también sabe dónde dejar aire.",
-        "objective": "Ofrecer una pauta navideña visual y aplicable.",
-        "graphic": "Gran cinta plateada en esquina de fachada azul, área central con CASA libre y entrada visible. Contraste entre moño y espacio vacío, sin tachones ni dramatización.",
-        "image": "img/creative-visual/S08.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/S08.png"
-      },
-      {
-        "id": "P06",
-        "date": "2026-12-05",
-        "week": 3,
-        "type": "Post",
-        "title": "Legibilidad y materiales",
-        "headline": "DE CERCA ENAMORA.\nDE LEJOS DEBE LEERSE.",
-        "caption": "La textura y el acabado aportan carácter. La forma de las letras, su tamaño y el contraste ayudan a reconocer el nombre desde la calle. Antes de elegir solo por una foto de detalle, pide ver la propuesta aplicada a tu fachada. Escríbenos y cuéntanos qué imagen quieres proyectar.",
-        "objective": "Enseñar a evaluar una propuesta más allá del detalle estético.",
-        "graphic": "Macro de letras corpóreas metálicas en primer plano y fachada completa legible detrás, profundidad natural; azul, blanco y metal cepillado. Dos escalas del mismo ejemplo CASA, sin exceso de texto.",
-        "image": "img/creative-visual/P06.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/P06.png"
-      },
-      {
-        "id": "S09",
-        "date": "2026-12-06",
-        "week": 3,
-        "type": "Story",
-        "title": "Información para cotizar",
-        "headline": "COTIZAR EMPIEZA\nPOR ENTENDER TU ESPACIO.",
-        "caption": "Ten a mano tu logo, una foto del lugar y medidas aproximadas. Si tienes una fecha objetivo, indícala para consultar disponibilidad y tiempos. CTA: Consultar mi proyecto.",
-        "objective": "Facilitar consultas completas sin inventar plazos ni cupos.",
-        "graphic": "Mesa de trabajo azul con plano simple de fachada, regla y archivo de logo genérico; tarjetas LOGO / ESPACIO / FECHA OBJETIVO; espacio seguro para botón nativo.",
-        "image": "img/creative-visual/S09.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/S09.png"
-      },
-      {
-        "id": "P07",
-        "date": "2026-12-09",
-        "week": 4,
-        "type": "Post",
-        "title": "Transición Navidad Año Nuevo",
-        "headline": "QUE CAMBIE LA CAMPAÑA.\nQUE TU MARCA PERMANEZCA.",
-        "caption": "Navidad pasa; tu identidad sigue en la fachada. Separa lo permanente —nombre, logo y señalización— de las piezas de temporada. Así puedes renovar mensajes para Año Nuevo sin rehacer toda la comunicación del local. Planifiquemos una propuesta que funcione durante las fiestas y después de ellas.",
-        "objective": "Plantear inversión con continuidad y preparar renovación de enero.",
-        "graphic": "Fachada ficticia CASA constante al centro; afiche lateral removible cambia de NAVIDAD a NUEVO AÑO mediante dos hojas superpuestas. Azul corporativo con pequeños acentos plata, composición limpia.",
-        "image": "img/creative-visual/P07.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/P07.png"
-      },
-      {
-        "id": "S10",
-        "date": "2026-12-10",
-        "week": 4,
-        "type": "Story",
-        "title": "Vigencia comercial",
-        "headline": "¿TU AFICHE TIENE\nFECHA DE SALIDA?",
-        "caption": "Anota cuándo termina cada promoción y programa el retiro o reemplazo de sus piezas. Una oferta vencida en la vitrina también comunica descuido.",
-        "objective": "Aportar una acción operativa útil al cierre de campaña.",
-        "graphic": "Mano retirando un afiche temporal de vitrina; pequeño calendario DICIEMBRE sin fecha límite comercial inventada, espacio amplio con titular blanco sobre azul.",
-        "image": "img/creative-visual/S10.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/S10.png"
-      },
-      {
-        "id": "S11",
-        "date": "2026-12-12",
-        "week": 4,
-        "type": "Story",
-        "title": "Planificar enero",
-        "headline": "ENERO EMPIEZA\nEN LO QUE PLANIFICAS HOY.",
-        "caption": "Si vas a renovar tu imagen, define qué necesita seguir funcionando en enero: identificación, horarios, ubicación de caja o mensajes de servicio. Tu proyecto empieza por esa prioridad.",
-        "objective": "Activar planificación de renovación sin urgencia falsa.",
-        "graphic": "Boceto de fachada en mesa de trabajo y panel vertical ENERO; lápiz y muestra física de letra, ambiente azul con blanco, sin confeti.",
-        "image": "img/creative-visual/S11.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/S11.png"
-      },
-      {
-        "id": "P08",
-        "date": "2026-12-14",
-        "week": 4,
-        "type": "Post",
-        "title": "Cierre comercial de campaña",
-        "headline": "EL AÑO CAMBIA.\nTU NEGOCIO TAMBIÉN PUEDE VERSE DISTINTO.",
-        "caption": "Si tu fachada ya no representa lo que ofrece tu negocio, este es un buen momento para plantear el cambio. En Creative Visual trabajamos letreros, letras corpóreas y piezas publicitarias para espacios comerciales. Envíanos tu logo, foto del local y una idea de lo que buscas. Revisamos tu proyecto y consultamos disponibilidad según su alcance.",
-        "objective": "Cerrar la secuencia con una invitación concreta a cotizar.",
-        "graphic": "Fachada comercial ficticia en hora azul con letras corpóreas CASA y persona de espaldas observando; titular fuerte blanco, banda inferior CONSULTA TU PROYECTO. Año Nuevo sugerido por luz y composición, sin fuegos artificiales genéricos.",
-        "image": "img/creative-visual/P08.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/P08.png"
-      },
-      {
-        "id": "S12",
-        "date": "2026-12-15",
-        "week": 4,
-        "type": "Story",
-        "title": "Consulta con contexto",
-        "headline": "PONGÁMOSLE FORMA\nA TU PRÓXIMA FACHADA.",
-        "caption": "¿Letrero nuevo, renovación o piezas para tu campaña? Cuéntanos qué necesitas y envíanos una foto del espacio. CTA: Hablemos de mi proyecto.",
-        "objective": "Recoger intención y cerrar el periodo con conversación comercial.",
-        "graphic": "Muestrario elegante con letra corpórea, caballete y cartel sobre azul; tres opciones LETRERO / RENOVACIÓN / CAMPAÑA. Área inferior vacía para enlace a WhatsApp o sticker de respuesta.",
-        "image": "img/creative-visual/S12.png",
-        "status": "Por revisar",
-        "notes": "",
-        "imageTarget": "img/creative-visual/S12.png"
+        "imageTarget": "img/creative-visual/S02.png",
+        "previousScheduledDate": "2026-11-18",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CV-V01",
@@ -354,7 +126,99 @@ window.BLINK_CLIENTS = [
         "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
         "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
         "script": "Concepto: ¿Cuánto cuesta uno así?\n\n[Entrada | Una persona señala un trabajo del taller]\n“‘¿Cuánto cuesta uno así?’ Es una de las preguntas que más nos hacen. Mira lo que necesitamos para cotizar el tuyo.”\n\n[Acción | Medir una pieza con cinta métrica, mostrar muestras de materiales y señalar dónde se instalaría usando una foto en el celular.]\n\n[Desarrollo a cámara]\n“Primero, las medidas. Después, dónde lo vas a colocar y qué acabado buscas. Con eso podemos proponerte una opción para tu espacio y tu presupuesto.”\n\n[Cierre]\n“Haz esto: tómale una foto al lugar, apunta las medidas y mándanos una referencia. Escríbenos y empezamos a cotizar tu proyecto.”\n\nTexto en pantalla: Foto del espacio + medidas + referencia.",
-        "imageTarget": "img/creative-visual/CV-V01.png"
+        "imageTarget": "img/creative-visual/CV-V01.png",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "S03",
+        "date": "2026-11-21",
+        "week": 1,
+        "type": "Story",
+        "title": "Brief inicial",
+        "headline": "TU FACHADA ES\nEL PUNTO DE PARTIDA.",
+        "caption": "Para evaluar una propuesta, envíanos una foto frontal, medidas aproximadas y el horario de atención. Con ese contexto podemos conversar sobre una solución para tu local. CTA: Enviar mi fachada.",
+        "objective": "Convertir interés en una consulta mejor preparada.",
+        "graphic": "Teléfono mostrando foto frontal de fachada ficticia, cinta métrica y luz lateral; tres campos visuales FOTO / MEDIDAS / HORARIO, espacio para enlace o mensaje.",
+        "image": "img/creative-visual/S03.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/S03.png",
+        "previousScheduledDate": "2026-11-21",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "P03",
+        "date": "2026-11-23",
+        "week": 2,
+        "type": "Post",
+        "title": "Promoción sin ruido",
+        "headline": "TU PROMO NECESITA\nESPACIO PARA ENTENDERSE.",
+        "caption": "Una vitrina llena de mensajes obliga a buscar lo importante. Dale prioridad a una oferta y deja claros el producto, el precio y las condiciones que correspondan. El soporte también cuenta: ubícalo donde se vea sin bloquear el acceso. Podemos ayudarte a llevar tu campaña a piezas impresas para tu punto de venta.",
+        "objective": "Conectar diseño gráfico y soporte físico con claridad de oferta.",
+        "graphic": "Composición de vitrina ficticia con afiche azul y blanco titulado ESPECIAL NAVIDAD, una sola foto de producto sin precio inventado. Mucho aire, papel con textura leve y banda azul curva; pequeño detalle navideño plateado.",
+        "image": "img/creative-visual/P03.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/P03.png",
+        "previousScheduledDate": "2026-11-23",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "id": "S04",
+        "date": "2026-11-24",
+        "week": 2,
+        "type": "Story",
+        "title": "Precio visible",
+        "headline": "¿EL PRECIO SE LEE\nO HAY QUE ADIVINARLO?",
+        "caption": "Si tu pieza comunica una oferta, el precio y sus condiciones necesitan espacio propio. Pruébala en pantalla pequeña antes de mandarla a imprimir.",
+        "objective": "Dar un criterio concreto para revisar artes comerciales.",
+        "graphic": "Acercamiento de afiche comercial ficticio sobre caballete con zona de precio tipográfica marcada como PRECIO, no monto. Lupa gráfica mínima, fondo blanco cálido y azul.",
+        "image": "img/creative-visual/S04.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/S04.png",
+        "previousScheduledDate": "2026-11-24",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "P04",
+        "date": "2026-11-25",
+        "week": 2,
+        "type": "Post",
+        "title": "Ruta de compra dentro del local",
+        "headline": "ENTRÓ POR LA VITRINA.\n¿AHORA QUÉ VE?",
+        "caption": "La campaña continúa dentro del local. Procura que el producto anunciado sea fácil de ubicar, que su precio esté visible y que la señalización ayude a encontrar dónde consultar o pagar. Diseñar el exterior y el interior con el mismo lenguaje hace que la experiencia se sienta conectada. Conversemos sobre las piezas que necesita tu espacio.",
+        "objective": "Ampliar la conversación a señalización y piezas interiores.",
+        "graphic": "Perspectiva de tienda pequeña realista con entrada, exhibición y caja conectadas mediante una línea blanca muy sutil; señal CAJA legible, piezas azules coordinadas, titular alto. Sin inventar servicios de remodelación.",
+        "image": "img/creative-visual/P04.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/P04.png",
+        "previousScheduledDate": "2026-11-27",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "id": "S05",
+        "date": "2026-11-26",
+        "week": 2,
+        "type": "Story",
+        "title": "Elegir por función",
+        "headline": "NO ES EL MISMO SOPORTE\nPARA CADA MENSAJE.",
+        "caption": "¿Una promoción que cambia? Evalúa una pieza reemplazable. ¿El nombre de tu negocio? Evalúa una solución pensada para permanecer. Primero define el uso; después, el formato.",
+        "objective": "Explicar diferencia entre señalización permanente y campaña temporal.",
+        "graphic": "Dos objetos distintos sobre fondo azul: letra corpórea blanca y afiche removible sobre caballete. Etiquetas IDENTIDAD / CAMPAÑA; composición diagonal editorial con espacio para texto.",
+        "image": "img/creative-visual/S05.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/S05.png",
+        "previousScheduledDate": "2026-11-26",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CV-V02",
@@ -398,7 +262,99 @@ window.BLINK_CLIENTS = [
         "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
         "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
         "script": "Concepto: Del taller a tu negocio\n\n[Entrada | Clips rápidos de instalaciones, retiro de película protectora, detalles de uniones y tomas del trabajo terminado.]\n\n[Voz en off]\n“Así termina nuestro trabajo: instalado en tu negocio y listo para que tu marca se vea. Pero antes, cada pieza pasa por nuestras manos: producción, armado y revisión de acabados.”\n\n[Durante la narración | Alternar instalaciones con el proceso real de esos mismos trabajos en el taller.]\n\n[Cierre a cámara | Junto a una pieza terminada]\n“¿Tienes un proyecto en mente? Mándanos una foto del espacio y sus medidas. En Creativvisual te ayudamos a darle forma.”\n\nTexto en pantalla: Cotiza tu proyecto por WhatsApp.",
-        "imageTarget": "img/creative-visual/CV-V02.png"
+        "imageTarget": "img/creative-visual/CV-V02.png",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "S06",
+        "date": "2026-11-28",
+        "week": 2,
+        "type": "Story",
+        "title": "Coherencia exterior interior",
+        "headline": "QUE TU PROMO NO\nSE PIERDA EN LA PUERTA.",
+        "caption": "Lo que anuncias en la vitrina debería reconocerse dentro del local: mismo producto, mismo mensaje y mismas condiciones. Revisa ese recorrido antes de diciembre.",
+        "objective": "Invitar a revisar continuidad de campaña.",
+        "graphic": "Dos planos de una misma tienda: cartel de vitrina y pequeña pieza en exhibidor con el mismo diseño ESPECIAL NAVIDAD; unión por pliegue de papel, no collage cargado.",
+        "image": "img/creative-visual/S06.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/S06.png",
+        "previousScheduledDate": "2026-11-29",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "P05",
+        "date": "2026-11-30",
+        "week": 3,
+        "type": "Post",
+        "title": "Iluminación con propósito",
+        "headline": "ENCIENDE TU MARCA.\nNO TODA LA FACHADA.",
+        "caption": "Las luces navideñas crean ambiente, pero el nombre de tu negocio debe seguir siendo protagonista. Revisa reflejos, contraste y elementos que compiten alrededor del letrero. La iluminación se define según el espacio y el material; no solo por cuánto brilla. Envíanos una foto nocturna de tu local para evaluar tu idea.",
+        "objective": "Diferenciar iluminación comercial de decoración estacional.",
+        "graphic": "Fotografía nocturna de letras corpóreas CASA con luz blanca controlada; azul profundo, halo realista y pequeña guirnalda fuera del letrero. Tipografía blanca fuerte, nada de exceso de neón.",
+        "image": "img/creative-visual/P05.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/P05.png",
+        "previousScheduledDate": "2026-12-01",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "id": "S07",
+        "date": "2026-12-01",
+        "week": 3,
+        "type": "Story",
+        "title": "Acabados que se entienden",
+        "headline": "LA LUZ TAMBIÉN\nCAMBIA EL ACABADO.",
+        "caption": "La luz frontal y el halo posterior producen efectos distintos. Mira muestras y referencias en condiciones parecidas a las de tu local antes de decidir.",
+        "objective": "Ayudar a expresar preferencias visuales para cotizar.",
+        "graphic": "Dos muestras físicas de letra A sobre panel azul oscuro, una con frente luminoso y otra con halo posterior; etiquetas FRENTE LUMINOSO / HALO POSTERIOR. Presentar como ejemplos visuales, no catálogo confirmado.",
+        "image": "img/creative-visual/S07.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/S07.png",
+        "previousScheduledDate": "2026-12-02",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "P06",
+        "date": "2026-12-02",
+        "week": 3,
+        "type": "Post",
+        "title": "Legibilidad y materiales",
+        "headline": "DE CERCA ENAMORA.\nDE LEJOS DEBE LEERSE.",
+        "caption": "La textura y el acabado aportan carácter. La forma de las letras, su tamaño y el contraste ayudan a reconocer el nombre desde la calle. Antes de elegir solo por una foto de detalle, pide ver la propuesta aplicada a tu fachada. Escríbenos y cuéntanos qué imagen quieres proyectar.",
+        "objective": "Enseñar a evaluar una propuesta más allá del detalle estético.",
+        "graphic": "Macro de letras corpóreas metálicas en primer plano y fachada completa legible detrás, profundidad natural; azul, blanco y metal cepillado. Dos escalas del mismo ejemplo CASA, sin exceso de texto.",
+        "image": "img/creative-visual/P06.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/P06.png",
+        "previousScheduledDate": "2026-12-05",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "id": "S08",
+        "date": "2026-12-03",
+        "week": 3,
+        "type": "Story",
+        "title": "Decoración sin obstruir",
+        "headline": "UN MOÑO AQUÍ.\nTU NOMBRE LIBRE.",
+        "caption": "Antes de decorar, reserva el espacio del letrero, el ingreso y la señalización necesaria. Una buena composición también sabe dónde dejar aire.",
+        "objective": "Ofrecer una pauta navideña visual y aplicable.",
+        "graphic": "Gran cinta plateada en esquina de fachada azul, área central con CASA libre y entrada visible. Contraste entre moño y espacio vacío, sin tachones ni dramatización.",
+        "image": "img/creative-visual/S08.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/S08.png",
+        "previousScheduledDate": "2026-12-04",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CV-V03",
@@ -442,7 +398,99 @@ window.BLINK_CLIENTS = [
         "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
         "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
         "script": "Concepto: De una foto a un trabajo terminado\n\n[Entrada | Una persona junto a un trabajo terminado]\n“Esto que ves acá empezó con una foto y un ‘quiero algo para mi negocio’.”\n\n[Acción | Mostrar en el celular la foto inicial del espacio y la referencia del proyecto, sin datos del cliente. Luego enseñar el diseño y revelar el resultado físico sobre la mesa del taller.]\n\n[Voz en off | Sobre clips del proceso]\n“Definimos las medidas, elegimos los materiales y pasamos del diseño a producción. Ahora está listo para instalarse.”\n\n[Cierre a cámara | Junto al pedido]\n“¿Tú también tienes una idea guardada en el celular? Mándanosla. En Creativvisual podemos ayudarte a convertirla en el próximo trabajo que salga de este taller.”\n\nTexto en pantalla: Envíanos tu idea · Empecemos tu cotización.",
-        "imageTarget": "img/creative-visual/CV-V03.png"
+        "imageTarget": "img/creative-visual/CV-V03.png",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "S09",
+        "date": "2026-12-05",
+        "week": 3,
+        "type": "Story",
+        "title": "Información para cotizar",
+        "headline": "COTIZAR EMPIEZA\nPOR ENTENDER TU ESPACIO.",
+        "caption": "Ten a mano tu logo, una foto del lugar y medidas aproximadas. Si tienes una fecha objetivo, indícala para consultar disponibilidad y tiempos. CTA: Consultar mi proyecto.",
+        "objective": "Facilitar consultas completas sin inventar plazos ni cupos.",
+        "graphic": "Mesa de trabajo azul con plano simple de fachada, regla y archivo de logo genérico; tarjetas LOGO / ESPACIO / FECHA OBJETIVO; espacio seguro para botón nativo.",
+        "image": "img/creative-visual/S09.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/S09.png",
+        "previousScheduledDate": "2026-12-06",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "P07",
+        "date": "2026-12-07",
+        "week": 4,
+        "type": "Post",
+        "title": "Transición Navidad Año Nuevo",
+        "headline": "QUE CAMBIE LA CAMPAÑA.\nQUE TU MARCA PERMANEZCA.",
+        "caption": "Navidad pasa; tu identidad sigue en la fachada. Separa lo permanente —nombre, logo y señalización— de las piezas de temporada. Así puedes renovar mensajes para Año Nuevo sin rehacer toda la comunicación del local. Planifiquemos una propuesta que funcione durante las fiestas y después de ellas.",
+        "objective": "Plantear inversión con continuidad y preparar renovación de enero.",
+        "graphic": "Fachada ficticia CASA constante al centro; afiche lateral removible cambia de NAVIDAD a NUEVO AÑO mediante dos hojas superpuestas. Azul corporativo con pequeños acentos plata, composición limpia.",
+        "image": "img/creative-visual/P07.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/P07.png",
+        "previousScheduledDate": "2026-12-09",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "id": "S10",
+        "date": "2026-12-08",
+        "week": 4,
+        "type": "Story",
+        "title": "Vigencia comercial",
+        "headline": "¿TU AFICHE TIENE\nFECHA DE SALIDA?",
+        "caption": "Anota cuándo termina cada promoción y programa el retiro o reemplazo de sus piezas. Una oferta vencida en la vitrina también comunica descuido.",
+        "objective": "Aportar una acción operativa útil al cierre de campaña.",
+        "graphic": "Mano retirando un afiche temporal de vitrina; pequeño calendario DICIEMBRE sin fecha límite comercial inventada, espacio amplio con titular blanco sobre azul.",
+        "image": "img/creative-visual/S10.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/S10.png",
+        "previousScheduledDate": "2026-12-10",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "P08",
+        "date": "2026-12-09",
+        "week": 4,
+        "type": "Post",
+        "title": "Cierre comercial de campaña",
+        "headline": "EL AÑO CAMBIA.\nTU NEGOCIO TAMBIÉN PUEDE VERSE DISTINTO.",
+        "caption": "Si tu fachada ya no representa lo que ofrece tu negocio, este es un buen momento para plantear el cambio. En Creative Visual trabajamos letreros, letras corpóreas y piezas publicitarias para espacios comerciales. Envíanos tu logo, foto del local y una idea de lo que buscas. Revisamos tu proyecto y consultamos disponibilidad según su alcance.",
+        "objective": "Cerrar la secuencia con una invitación concreta a cotizar.",
+        "graphic": "Fachada comercial ficticia en hora azul con letras corpóreas CASA y persona de espaldas observando; titular fuerte blanco, banda inferior CONSULTA TU PROYECTO. Año Nuevo sugerido por luz y composición, sin fuegos artificiales genéricos.",
+        "image": "img/creative-visual/P08.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/P08.png",
+        "previousScheduledDate": "2026-12-14",
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "id": "S11",
+        "date": "2026-12-10",
+        "week": 4,
+        "type": "Story",
+        "title": "Planificar enero",
+        "headline": "ENERO EMPIEZA\nEN LO QUE PLANIFICAS HOY.",
+        "caption": "Si vas a renovar tu imagen, define qué necesita seguir funcionando en enero: identificación, horarios, ubicación de caja o mensajes de servicio. Tu proyecto empieza por esa prioridad.",
+        "objective": "Activar planificación de renovación sin urgencia falsa.",
+        "graphic": "Boceto de fachada en mesa de trabajo y panel vertical ENERO; lápiz y muestra física de letra, ambiente azul con blanco, sin confeti.",
+        "image": "img/creative-visual/S11.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/S11.png",
+        "previousScheduledDate": "2026-12-12",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CV-V04",
@@ -481,7 +529,27 @@ window.BLINK_CLIENTS = [
         "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
         "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
         "script": "Concepto: ¿Próxima apertura?\n\n[Entrada | Una persona pega en la pared del taller un papel que dice “INAUGURACIÓN” y una fecha. Mira a cámara]\n“Ya tienes fecha de apertura… ¿y el letrero de tu negocio?”\n\n[Desarrollo | Caminar junto a trabajos en producción, mostrando materiales, armado y piezas terminadas]\n“Para llegar a instalarlo, primero hay que definir medidas, aprobar el diseño y producirlo. Si ya sabes cuándo abres, podemos empezar a organizar tu pedido.”\n\n[Cierre a cámara]\n“Escríbenos qué necesitas y para qué fecha. Revisamos tu proyecto y te confirmamos los tiempos de entrega.”\n\nTexto en pantalla: ¿Próxima apertura? Cotiza con anticipación.",
-        "imageTarget": "img/creative-visual/CV-V04.png"
+        "imageTarget": "img/creative-visual/CV-V04.png",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "S12",
+        "date": "2026-12-12",
+        "week": 4,
+        "type": "Story",
+        "title": "Consulta con contexto",
+        "headline": "PONGÁMOSLE FORMA\nA TU PRÓXIMA FACHADA.",
+        "caption": "¿Letrero nuevo, renovación o piezas para tu campaña? Cuéntanos qué necesitas y envíanos una foto del espacio. CTA: Hablemos de mi proyecto.",
+        "objective": "Recoger intención y cerrar el periodo con conversación comercial.",
+        "graphic": "Muestrario elegante con letra corpórea, caballete y cartel sobre azul; tres opciones LETRERO / RENOVACIÓN / CAMPAÑA. Área inferior vacía para enlace a WhatsApp o sticker de respuesta.",
+        "image": "img/creative-visual/S12.png",
+        "status": "Por revisar",
+        "notes": "",
+        "imageTarget": "img/creative-visual/S12.png",
+        "previousScheduledDate": "2026-12-15",
+        "width": 1080,
+        "height": 1920
       }
     ],
     "logo": "img/marcas/creative-visual.png"
@@ -526,7 +594,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 3,
         "referenceKind": "Pieza realizada",
-        "imageTarget": "img/cash-sol/CS-P01.png"
+        "imageTarget": "img/cash-sol/CS-P01.png",
+        "width": 1080,
+        "height": 1350
       },
       {
         "id": "CS-S01",
@@ -552,7 +622,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 4,
         "referenceKind": "Pieza realizada",
-        "imageTarget": "img/cash-sol/CS-S01.png"
+        "imageTarget": "img/cash-sol/CS-S01.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-P02",
@@ -578,7 +650,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 5,
         "referenceKind": "Pieza realizada",
-        "imageTarget": "img/cash-sol/CS-P02.png"
+        "imageTarget": "img/cash-sol/CS-P02.png",
+        "width": 1080,
+        "height": 1350
       },
       {
         "id": "CS-S02",
@@ -604,7 +678,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 6,
         "referenceKind": "Pieza realizada",
-        "imageTarget": "img/cash-sol/CS-S02.png"
+        "imageTarget": "img/cash-sol/CS-S02.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-V01",
@@ -651,7 +727,9 @@ window.BLINK_CLIENTS = [
         "screenText": "Consulta por tu préstamo personal · Cash Sol Perú.",
         "referenceTemplate": true,
         "script": "Concepto: Ese gasto que no esperabas\n\n[Inicio | Persona mirando un recibo y luego a cámara]\n“¿Te salió un gasto que no estaba en tus planes? Justo cuando ya tenías todo organizado…”\n\n[Desarrollo | Cambio de plano, tono cercano]\n“En Cash Sol Perú puedes consultar por un préstamo personal y conocer las opciones disponibles según tu evaluación.”\n\n[Cierre | Persona mostrando el chat de WhatsApp]\n“Antes de decidir, resuelve tus dudas sobre requisitos, cuotas y condiciones. Escríbenos y cuéntanos qué necesitas.”\n\nTexto en pantalla: Consulta por tu préstamo personal · Cash Sol Perú.",
-        "imageTarget": "img/cash-sol/CS-V01.png"
+        "imageTarget": "img/cash-sol/CS-V01.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-S03",
@@ -677,7 +755,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 8,
         "referenceKind": "Pieza realizada",
-        "imageTarget": "img/cash-sol/CS-S03.png"
+        "imageTarget": "img/cash-sol/CS-S03.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-P03",
@@ -703,7 +783,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 10,
         "referenceKind": "Bosquejo",
-        "imageTarget": "img/cash-sol/CS-P03.png"
+        "imageTarget": "img/cash-sol/CS-P03.png",
+        "width": 1080,
+        "height": 1350
       },
       {
         "id": "CS-S04",
@@ -729,7 +811,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 11,
         "referenceKind": "Bosquejo",
-        "imageTarget": "img/cash-sol/CS-S04.png"
+        "imageTarget": "img/cash-sol/CS-S04.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-P04",
@@ -755,7 +839,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 12,
         "referenceKind": "Bosquejo",
-        "imageTarget": "img/cash-sol/CS-P04.png"
+        "imageTarget": "img/cash-sol/CS-P04.png",
+        "width": 1080,
+        "height": 1350
       },
       {
         "id": "CS-S05",
@@ -781,7 +867,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 13,
         "referenceKind": "Bosquejo",
-        "imageTarget": "img/cash-sol/CS-S05.png"
+        "imageTarget": "img/cash-sol/CS-S05.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-V02",
@@ -829,7 +917,9 @@ window.BLINK_CLIENTS = [
         ],
         "screenText": "Descubre el valor de tu joya · Consulta por WhatsApp.",
         "referenceTemplate": true,
-        "imageTarget": "img/cash-sol/CS-V02.png"
+        "imageTarget": "img/cash-sol/CS-V02.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-S06",
@@ -855,7 +945,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 15,
         "referenceKind": "Bosquejo",
-        "imageTarget": "img/cash-sol/CS-S06.png"
+        "imageTarget": "img/cash-sol/CS-S06.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-P05",
@@ -881,7 +973,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 17,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-P05.png"
+        "imageTarget": "img/cash-sol/CS-P05.png",
+        "width": 1080,
+        "height": 1350
       },
       {
         "id": "CS-S07",
@@ -907,7 +1001,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 18,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-S07.png"
+        "imageTarget": "img/cash-sol/CS-S07.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-P06",
@@ -933,7 +1029,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 19,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-P06.png"
+        "imageTarget": "img/cash-sol/CS-P06.png",
+        "width": 1080,
+        "height": 1350
       },
       {
         "id": "CS-S08",
@@ -959,7 +1057,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 20,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-S08.png"
+        "imageTarget": "img/cash-sol/CS-S08.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-V03",
@@ -1011,7 +1111,9 @@ window.BLINK_CLIENTS = [
         "screenText": "Pregunta. Conoce. Decide. · Cash Sol Perú.",
         "referenceTemplate": true,
         "script": "Concepto: Preguntar también es cuidarte\n\n[Inicio | Persona a cámara, tono directo]\n“Si vas a pedir un préstamo, hay preguntas que merecen una respuesta clara.”\n\n[Desarrollo | Cada pregunta aparece en pantalla]\n“¿Cuánto voy a pagar? ¿Cuándo vence mi cuota? ¿Qué pasa si me atraso?”\n\n[Cambio de plano]\n“En Cash Sol Perú queremos que consultes y entiendas las condiciones antes de tomar una decisión.”\n\n[Cierre]\n“Porque la confianza empieza con una conversación clara. Escríbenos y conversemos.”\n\nTexto en pantalla: Pregunta. Conoce. Decide. · Cash Sol Perú.",
-        "imageTarget": "img/cash-sol/CS-V03.png"
+        "imageTarget": "img/cash-sol/CS-V03.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-S09",
@@ -1037,7 +1139,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 22,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-S09.png"
+        "imageTarget": "img/cash-sol/CS-S09.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-P07",
@@ -1063,7 +1167,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 24,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-P07.png"
+        "imageTarget": "img/cash-sol/CS-P07.png",
+        "width": 1080,
+        "height": 1350
       },
       {
         "id": "CS-S10",
@@ -1089,7 +1195,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 25,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-S10.png"
+        "imageTarget": "img/cash-sol/CS-S10.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-P08",
@@ -1115,7 +1223,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 26,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-P08.png"
+        "imageTarget": "img/cash-sol/CS-P08.png",
+        "width": 1080,
+        "height": 1350
       },
       {
         "id": "CS-S11",
@@ -1141,7 +1251,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 27,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-S11.png"
+        "imageTarget": "img/cash-sol/CS-S11.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-V04",
@@ -1188,7 +1300,9 @@ window.BLINK_CLIENTS = [
         "screenText": "Estamos para escucharte · Escríbenos por WhatsApp.",
         "referenceTemplate": true,
         "script": "Concepto: Detrás de cada consulta hay una historia\n\n[Inicio | Tomas cotidianas de una persona trabajando y organizando sus gastos]\n“Detrás de un ‘quisiera información’ puede haber un imprevisto, una necesidad o un plan por cumplir.”\n\n[Desarrollo | Persona a cámara, tono cálido]\n“Por eso, en Cash Sol Perú queremos empezar por escucharte. Saber qué necesitas y orientarte sobre las opciones que puedes consultar.”\n\n[Cierre | Plano cercano]\n“Cuéntanos tu caso, resuelve tus dudas y decide con información. Cash Sol Perú: conversemos sobre tu próximo paso.”\n\nTexto en pantalla: Estamos para escucharte · Escríbenos por WhatsApp.",
-        "imageTarget": "img/cash-sol/CS-V04.png"
+        "imageTarget": "img/cash-sol/CS-V04.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-S12",
@@ -1214,7 +1328,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 29,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-S12.png"
+        "imageTarget": "img/cash-sol/CS-S12.png",
+        "width": 1080,
+        "height": 1920
       },
       {
         "id": "CS-P09",
@@ -1240,7 +1356,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 31,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-P09.png"
+        "imageTarget": "img/cash-sol/CS-P09.png",
+        "width": 1080,
+        "height": 1350
       },
       {
         "id": "CS-S13",
@@ -1266,7 +1384,9 @@ window.BLINK_CLIENTS = [
         "sourceSheet": "JULIO",
         "sourceRow": 32,
         "referenceKind": "Referencia externa",
-        "imageTarget": "img/cash-sol/CS-S13.png"
+        "imageTarget": "img/cash-sol/CS-S13.png",
+        "width": 1080,
+        "height": 1920
       }
     ]
   }
