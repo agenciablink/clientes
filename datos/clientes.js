@@ -24,7 +24,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Fachada ficticia de tienda peruana al atardecer, nombre CASA visible en letras corpóreas blancas; iluminación navideña lateral mínima. Gran titular arriba en azul y blanco. Un recorrido visual conecta letrero, vitrina y entrada. Sin comparación engañosa ni promesas de ventas.",
         "image": "img/creative-visual/P01.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/P01.png"
       },
       {
         "id": "S01",
@@ -38,7 +39,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Vista peatonal de una fachada de tienda con letrero CASA; marco de enfoque sobre el nombre. Titular grande arriba, consejo breve en una banda y espacio inferior para encuesta nativa.",
         "image": "img/creative-visual/S01.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S01.png"
       },
       {
         "id": "S02",
@@ -52,7 +54,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Vitrina editorial con un regalo protagonista y cartel rectangular OFERTA NAVIDEÑA; tipografía blanca sobre azul, una flecha discreta indica el mensaje central; sin precios inventados.",
         "image": "img/creative-visual/S02.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S02.png"
       },
       {
         "id": "P02",
@@ -66,7 +69,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Díptico vertical de la misma fachada ficticia CASA en día y noche; letrero legible en ambos. Etiquetas DE DÍA / DE NOCHE. Azul corporativo, fotografía protagonista y titular compacto. No afirmar que una solución sirve para todos.",
         "image": "img/creative-visual/P02.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/P02.png"
       },
       {
         "id": "S03",
@@ -80,7 +84,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Teléfono mostrando foto frontal de fachada ficticia, cinta métrica y luz lateral; tres campos visuales FOTO / MEDIDAS / HORARIO, espacio para enlace o mensaje.",
         "image": "img/creative-visual/S03.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S03.png"
       },
       {
         "id": "P03",
@@ -94,7 +99,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Composición de vitrina ficticia con afiche azul y blanco titulado ESPECIAL NAVIDAD, una sola foto de producto sin precio inventado. Mucho aire, papel con textura leve y banda azul curva; pequeño detalle navideño plateado.",
         "image": "img/creative-visual/P03.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/P03.png"
       },
       {
         "id": "S04",
@@ -108,7 +114,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Acercamiento de afiche comercial ficticio sobre caballete con zona de precio tipográfica marcada como PRECIO, no monto. Lupa gráfica mínima, fondo blanco cálido y azul.",
         "image": "img/creative-visual/S04.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S04.png"
       },
       {
         "id": "S05",
@@ -122,7 +129,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Dos objetos distintos sobre fondo azul: letra corpórea blanca y afiche removible sobre caballete. Etiquetas IDENTIDAD / CAMPAÑA; composición diagonal editorial con espacio para texto.",
         "image": "img/creative-visual/S05.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S05.png"
       },
       {
         "id": "P04",
@@ -136,7 +144,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Perspectiva de tienda pequeña realista con entrada, exhibición y caja conectadas mediante una línea blanca muy sutil; señal CAJA legible, piezas azules coordinadas, titular alto. Sin inventar servicios de remodelación.",
         "image": "img/creative-visual/P04.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/P04.png"
       },
       {
         "id": "S06",
@@ -150,7 +159,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Dos planos de una misma tienda: cartel de vitrina y pequeña pieza en exhibidor con el mismo diseño ESPECIAL NAVIDAD; unión por pliegue de papel, no collage cargado.",
         "image": "img/creative-visual/S06.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S06.png"
       },
       {
         "id": "P05",
@@ -164,7 +174,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Fotografía nocturna de letras corpóreas CASA con luz blanca controlada; azul profundo, halo realista y pequeña guirnalda fuera del letrero. Tipografía blanca fuerte, nada de exceso de neón.",
         "image": "img/creative-visual/P05.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/P05.png"
       },
       {
         "id": "S07",
@@ -178,7 +189,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Dos muestras físicas de letra A sobre panel azul oscuro, una con frente luminoso y otra con halo posterior; etiquetas FRENTE LUMINOSO / HALO POSTERIOR. Presentar como ejemplos visuales, no catálogo confirmado.",
         "image": "img/creative-visual/S07.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S07.png"
       },
       {
         "id": "S08",
@@ -192,7 +204,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Gran cinta plateada en esquina de fachada azul, área central con CASA libre y entrada visible. Contraste entre moño y espacio vacío, sin tachones ni dramatización.",
         "image": "img/creative-visual/S08.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S08.png"
       },
       {
         "id": "P06",
@@ -206,7 +219,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Macro de letras corpóreas metálicas en primer plano y fachada completa legible detrás, profundidad natural; azul, blanco y metal cepillado. Dos escalas del mismo ejemplo CASA, sin exceso de texto.",
         "image": "img/creative-visual/P06.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/P06.png"
       },
       {
         "id": "S09",
@@ -220,7 +234,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Mesa de trabajo azul con plano simple de fachada, regla y archivo de logo genérico; tarjetas LOGO / ESPACIO / FECHA OBJETIVO; espacio seguro para botón nativo.",
         "image": "img/creative-visual/S09.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S09.png"
       },
       {
         "id": "P07",
@@ -234,7 +249,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Fachada ficticia CASA constante al centro; afiche lateral removible cambia de NAVIDAD a NUEVO AÑO mediante dos hojas superpuestas. Azul corporativo con pequeños acentos plata, composición limpia.",
         "image": "img/creative-visual/P07.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/P07.png"
       },
       {
         "id": "S10",
@@ -248,7 +264,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Mano retirando un afiche temporal de vitrina; pequeño calendario DICIEMBRE sin fecha límite comercial inventada, espacio amplio con titular blanco sobre azul.",
         "image": "img/creative-visual/S10.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S10.png"
       },
       {
         "id": "S11",
@@ -262,7 +279,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Boceto de fachada en mesa de trabajo y panel vertical ENERO; lápiz y muestra física de letra, ambiente azul con blanco, sin confeti.",
         "image": "img/creative-visual/S11.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S11.png"
       },
       {
         "id": "P08",
@@ -276,7 +294,8 @@ window.BLINK_CLIENTS = [
         "graphic": "Fachada comercial ficticia en hora azul con letras corpóreas CASA y persona de espaldas observando; titular fuerte blanco, banda inferior CONSULTA TU PROYECTO. Año Nuevo sugerido por luz y composición, sin fuegos artificiales genéricos.",
         "image": "img/creative-visual/P08.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/P08.png"
       },
       {
         "id": "S12",
@@ -290,7 +309,179 @@ window.BLINK_CLIENTS = [
         "graphic": "Muestrario elegante con letra corpórea, caballete y cartel sobre azul; tres opciones LETRERO / RENOVACIÓN / CAMPAÑA. Área inferior vacía para enlace a WhatsApp o sticker de respuesta.",
         "image": "img/creative-visual/S12.png",
         "status": "Por revisar",
-        "notes": ""
+        "notes": "",
+        "imageTarget": "img/creative-visual/S12.png"
+      },
+      {
+        "id": "CV-V01",
+        "date": "2026-11-20",
+        "week": 1,
+        "type": "Video",
+        "status": "Guion listo",
+        "channels": "Canal por definir",
+        "ads": "Por definir",
+        "objective": "Orientar la solicitud de cotización.",
+        "title": "¿Cuánto cuesta uno así?",
+        "concept": "¿Cuánto cuesta uno así?",
+        "headline": "¿Cuánto cuesta uno así?",
+        "scriptBlocks": [
+          {
+            "label": "Entrada",
+            "direction": "Una persona señala un trabajo del taller",
+            "text": "‘¿Cuánto cuesta uno así?’ Es una de las preguntas que más nos hacen. Mira lo que necesitamos para cotizar el tuyo."
+          },
+          {
+            "label": "Acción",
+            "direction": "Medir una pieza con cinta métrica, mostrar muestras de materiales y señalar dónde se instalaría usando una foto en el celular.",
+            "text": ""
+          },
+          {
+            "label": "Desarrollo a cámara",
+            "direction": "",
+            "text": "Primero, las medidas. Después, dónde lo vas a colocar y qué acabado buscas. Con eso podemos proponerte una opción para tu espacio y tu presupuesto."
+          },
+          {
+            "label": "Cierre",
+            "direction": "",
+            "text": "Haz esto: tómale una foto al lugar, apunta las medidas y mándanos una referencia. Escríbenos y empezamos a cotizar tu proyecto."
+          }
+        ],
+        "screenText": "Foto del espacio + medidas + referencia.",
+        "caption": "",
+        "image": "",
+        "referenceKind": "Story referencial de video",
+        "referenceTemplate": true,
+        "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
+        "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
+        "script": "Concepto: ¿Cuánto cuesta uno así?\n\n[Entrada | Una persona señala un trabajo del taller]\n“‘¿Cuánto cuesta uno así?’ Es una de las preguntas que más nos hacen. Mira lo que necesitamos para cotizar el tuyo.”\n\n[Acción | Medir una pieza con cinta métrica, mostrar muestras de materiales y señalar dónde se instalaría usando una foto en el celular.]\n\n[Desarrollo a cámara]\n“Primero, las medidas. Después, dónde lo vas a colocar y qué acabado buscas. Con eso podemos proponerte una opción para tu espacio y tu presupuesto.”\n\n[Cierre]\n“Haz esto: tómale una foto al lugar, apunta las medidas y mándanos una referencia. Escríbenos y empezamos a cotizar tu proyecto.”\n\nTexto en pantalla: Foto del espacio + medidas + referencia.",
+        "imageTarget": "img/creative-visual/CV-V01.png"
+      },
+      {
+        "id": "CV-V02",
+        "date": "2026-11-27",
+        "week": 2,
+        "type": "Video",
+        "status": "Guion listo",
+        "channels": "Canal por definir",
+        "ads": "Por definir",
+        "objective": "Mostrar el proceso real desde taller hasta instalación.",
+        "title": "Del taller a tu negocio",
+        "concept": "Del taller a tu negocio",
+        "headline": "Del taller a tu negocio",
+        "scriptBlocks": [
+          {
+            "label": "Entrada",
+            "direction": "Clips rápidos de instalaciones, retiro de película protectora, detalles de uniones y tomas del trabajo terminado.",
+            "text": ""
+          },
+          {
+            "label": "Voz en off",
+            "direction": "",
+            "text": "Así termina nuestro trabajo: instalado en tu negocio y listo para que tu marca se vea. Pero antes, cada pieza pasa por nuestras manos: producción, armado y revisión de acabados."
+          },
+          {
+            "label": "Durante la narración",
+            "direction": "Alternar instalaciones con el proceso real de esos mismos trabajos en el taller.",
+            "text": ""
+          },
+          {
+            "label": "Cierre a cámara",
+            "direction": "Junto a una pieza terminada",
+            "text": "¿Tienes un proyecto en mente? Mándanos una foto del espacio y sus medidas. En Creativvisual te ayudamos a darle forma."
+          }
+        ],
+        "screenText": "Cotiza tu proyecto por WhatsApp.",
+        "caption": "",
+        "image": "",
+        "referenceKind": "Story referencial de video",
+        "referenceTemplate": true,
+        "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
+        "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
+        "script": "Concepto: Del taller a tu negocio\n\n[Entrada | Clips rápidos de instalaciones, retiro de película protectora, detalles de uniones y tomas del trabajo terminado.]\n\n[Voz en off]\n“Así termina nuestro trabajo: instalado en tu negocio y listo para que tu marca se vea. Pero antes, cada pieza pasa por nuestras manos: producción, armado y revisión de acabados.”\n\n[Durante la narración | Alternar instalaciones con el proceso real de esos mismos trabajos en el taller.]\n\n[Cierre a cámara | Junto a una pieza terminada]\n“¿Tienes un proyecto en mente? Mándanos una foto del espacio y sus medidas. En Creativvisual te ayudamos a darle forma.”\n\nTexto en pantalla: Cotiza tu proyecto por WhatsApp.",
+        "imageTarget": "img/creative-visual/CV-V02.png"
+      },
+      {
+        "id": "CV-V03",
+        "date": "2026-12-04",
+        "week": 3,
+        "type": "Video",
+        "status": "Guion listo",
+        "channels": "Canal por definir",
+        "ads": "Por definir",
+        "objective": "Presentar el recorrido desde una idea hasta la pieza terminada.",
+        "title": "De una foto a un trabajo terminado",
+        "concept": "De una foto a un trabajo terminado",
+        "headline": "De una foto a un trabajo terminado",
+        "scriptBlocks": [
+          {
+            "label": "Entrada",
+            "direction": "Una persona junto a un trabajo terminado",
+            "text": "Esto que ves acá empezó con una foto y un ‘quiero algo para mi negocio’."
+          },
+          {
+            "label": "Acción",
+            "direction": "Mostrar en el celular la foto inicial del espacio y la referencia del proyecto, sin datos del cliente. Luego enseñar el diseño y revelar el resultado físico sobre la mesa del taller.",
+            "text": ""
+          },
+          {
+            "label": "Voz en off",
+            "direction": "Sobre clips del proceso",
+            "text": "Definimos las medidas, elegimos los materiales y pasamos del diseño a producción. Ahora está listo para instalarse."
+          },
+          {
+            "label": "Cierre a cámara",
+            "direction": "Junto al pedido",
+            "text": "¿Tú también tienes una idea guardada en el celular? Mándanosla. En Creativvisual podemos ayudarte a convertirla en el próximo trabajo que salga de este taller."
+          }
+        ],
+        "screenText": "Envíanos tu idea · Empecemos tu cotización.",
+        "caption": "",
+        "image": "",
+        "referenceKind": "Story referencial de video",
+        "referenceTemplate": true,
+        "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
+        "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
+        "script": "Concepto: De una foto a un trabajo terminado\n\n[Entrada | Una persona junto a un trabajo terminado]\n“Esto que ves acá empezó con una foto y un ‘quiero algo para mi negocio’.”\n\n[Acción | Mostrar en el celular la foto inicial del espacio y la referencia del proyecto, sin datos del cliente. Luego enseñar el diseño y revelar el resultado físico sobre la mesa del taller.]\n\n[Voz en off | Sobre clips del proceso]\n“Definimos las medidas, elegimos los materiales y pasamos del diseño a producción. Ahora está listo para instalarse.”\n\n[Cierre a cámara | Junto al pedido]\n“¿Tú también tienes una idea guardada en el celular? Mándanosla. En Creativvisual podemos ayudarte a convertirla en el próximo trabajo que salga de este taller.”\n\nTexto en pantalla: Envíanos tu idea · Empecemos tu cotización.",
+        "imageTarget": "img/creative-visual/CV-V03.png"
+      },
+      {
+        "id": "CV-V04",
+        "date": "2026-12-11",
+        "week": 4,
+        "type": "Video",
+        "status": "Guion listo",
+        "channels": "Canal por definir",
+        "ads": "Por definir",
+        "objective": "Invitar a coordinar letreros con anticipación a una apertura.",
+        "title": "¿Próxima apertura?",
+        "concept": "¿Próxima apertura?",
+        "headline": "¿Próxima apertura?",
+        "scriptBlocks": [
+          {
+            "label": "Entrada",
+            "direction": "Una persona pega en la pared del taller un papel que dice “INAUGURACIÓN” y una fecha. Mira a cámara",
+            "text": "Ya tienes fecha de apertura… ¿y el letrero de tu negocio?"
+          },
+          {
+            "label": "Desarrollo",
+            "direction": "Caminar junto a trabajos en producción, mostrando materiales, armado y piezas terminadas",
+            "text": "Para llegar a instalarlo, primero hay que definir medidas, aprobar el diseño y producirlo. Si ya sabes cuándo abres, podemos empezar a organizar tu pedido."
+          },
+          {
+            "label": "Cierre a cámara",
+            "direction": "",
+            "text": "Escríbenos qué necesitas y para qué fecha. Revisamos tu proyecto y te confirmamos los tiempos de entrega."
+          }
+        ],
+        "screenText": "¿Próxima apertura? Cotiza con anticipación.",
+        "caption": "",
+        "image": "",
+        "referenceKind": "Story referencial de video",
+        "referenceTemplate": true,
+        "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
+        "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
+        "script": "Concepto: ¿Próxima apertura?\n\n[Entrada | Una persona pega en la pared del taller un papel que dice “INAUGURACIÓN” y una fecha. Mira a cámara]\n“Ya tienes fecha de apertura… ¿y el letrero de tu negocio?”\n\n[Desarrollo | Caminar junto a trabajos en producción, mostrando materiales, armado y piezas terminadas]\n“Para llegar a instalarlo, primero hay que definir medidas, aprobar el diseño y producirlo. Si ya sabes cuándo abres, podemos empezar a organizar tu pedido.”\n\n[Cierre a cámara]\n“Escríbenos qué necesitas y para qué fecha. Revisamos tu proyecto y te confirmamos los tiempos de entrega.”\n\nTexto en pantalla: ¿Próxima apertura? Cotiza con anticipación.",
+        "imageTarget": "img/creative-visual/CV-V04.png"
       }
     ],
     "logo": "img/marcas/creative-visual.png"
@@ -334,7 +525,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://drive.google.com/file/d/1cgJMN5NAns7SH0pySrMHhSG7LmmzbUmc/view?usp=drive_link",
         "sourceSheet": "JULIO",
         "sourceRow": 3,
-        "referenceKind": "Pieza realizada"
+        "referenceKind": "Pieza realizada",
+        "imageTarget": "img/cash-sol/CS-P01.png"
       },
       {
         "id": "CS-S01",
@@ -359,7 +551,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://drive.google.com/file/d/14aQNyx5cpBXmmC1VY3XNg_PFqd92-cdX/view?usp=drive_link",
         "sourceSheet": "JULIO",
         "sourceRow": 4,
-        "referenceKind": "Pieza realizada"
+        "referenceKind": "Pieza realizada",
+        "imageTarget": "img/cash-sol/CS-S01.png"
       },
       {
         "id": "CS-P02",
@@ -384,7 +577,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://drive.google.com/file/d/1QTBbgItEfp64nQ3JH6e7vpqTvaQo_9Mc/view?usp=drive_link",
         "sourceSheet": "JULIO",
         "sourceRow": 5,
-        "referenceKind": "Pieza realizada"
+        "referenceKind": "Pieza realizada",
+        "imageTarget": "img/cash-sol/CS-P02.png"
       },
       {
         "id": "CS-S02",
@@ -409,21 +603,22 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://drive.google.com/file/d/1qxbVr7wLMHn_oSLkwulyrQ5u20EqmKPw/view?usp=drive_link",
         "sourceSheet": "JULIO",
         "sourceRow": 6,
-        "referenceKind": "Pieza realizada"
+        "referenceKind": "Pieza realizada",
+        "imageTarget": "img/cash-sol/CS-S02.png"
       },
       {
         "id": "CS-V01",
         "date": "2026-11-13",
         "week": 1,
         "type": "Video",
-        "title": "Video realizado · tema sin detallar",
-        "headline": "Tema por definir",
-        "caption": "Copy pendiente de definir.",
-        "objective": "Objetivo pendiente de definir.",
-        "graphic": "Dirección gráfica pendiente de definir.",
+        "title": "Ese gasto que no esperabas",
+        "headline": "Ese gasto que no esperabas",
+        "caption": "",
+        "objective": "Presentar la consulta por préstamos personales.",
+        "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
         "image": "",
         "status": "Realizado",
-        "notes": "Semana anterior realizada, según la indicación de Agencia Blink. No implica confirmación de publicación. El Excel indica video, pero no detalla tema ni guion. Copy no especificado en el Excel.",
+        "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
         "channels": "FB y Instagram",
         "ads": "No",
         "focus": "Promoción",
@@ -434,7 +629,29 @@ window.BLINK_CLIENTS = [
         "sourceReference": "",
         "sourceSheet": "JULIO",
         "sourceRow": 7,
-        "referenceKind": "Pieza realizada"
+        "referenceKind": "Story referencial de video",
+        "concept": "Ese gasto que no esperabas",
+        "scriptBlocks": [
+          {
+            "label": "Inicio",
+            "direction": "Persona mirando un recibo y luego a cámara",
+            "text": "¿Te salió un gasto que no estaba en tus planes? Justo cuando ya tenías todo organizado…"
+          },
+          {
+            "label": "Desarrollo",
+            "direction": "Cambio de plano, tono cercano",
+            "text": "En Cash Sol Perú puedes consultar por un préstamo personal y conocer las opciones disponibles según tu evaluación."
+          },
+          {
+            "label": "Cierre",
+            "direction": "Persona mostrando el chat de WhatsApp",
+            "text": "Antes de decidir, resuelve tus dudas sobre requisitos, cuotas y condiciones. Escríbenos y cuéntanos qué necesitas."
+          }
+        ],
+        "screenText": "Consulta por tu préstamo personal · Cash Sol Perú.",
+        "referenceTemplate": true,
+        "script": "Concepto: Ese gasto que no esperabas\n\n[Inicio | Persona mirando un recibo y luego a cámara]\n“¿Te salió un gasto que no estaba en tus planes? Justo cuando ya tenías todo organizado…”\n\n[Desarrollo | Cambio de plano, tono cercano]\n“En Cash Sol Perú puedes consultar por un préstamo personal y conocer las opciones disponibles según tu evaluación.”\n\n[Cierre | Persona mostrando el chat de WhatsApp]\n“Antes de decidir, resuelve tus dudas sobre requisitos, cuotas y condiciones. Escríbenos y cuéntanos qué necesitas.”\n\nTexto en pantalla: Consulta por tu préstamo personal · Cash Sol Perú.",
+        "imageTarget": "img/cash-sol/CS-V01.png"
       },
       {
         "id": "CS-S03",
@@ -459,7 +676,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://drive.google.com/file/d/1MNIT-9H_o8G45U07Paw3HcgtZWga7tQZ/view?usp=drive_link",
         "sourceSheet": "JULIO",
         "sourceRow": 8,
-        "referenceKind": "Pieza realizada"
+        "referenceKind": "Pieza realizada",
+        "imageTarget": "img/cash-sol/CS-S03.png"
       },
       {
         "id": "CS-P03",
@@ -484,7 +702,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DdrxoADFUbm/",
         "sourceSheet": "JULIO",
         "sourceRow": 10,
-        "referenceKind": "Bosquejo"
+        "referenceKind": "Bosquejo",
+        "imageTarget": "img/cash-sol/CS-P03.png"
       },
       {
         "id": "CS-S04",
@@ -509,7 +728,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DfA4VbHEb_w/",
         "sourceSheet": "JULIO",
         "sourceRow": 11,
-        "referenceKind": "Bosquejo"
+        "referenceKind": "Bosquejo",
+        "imageTarget": "img/cash-sol/CS-S04.png"
       },
       {
         "id": "CS-P04",
@@ -534,7 +754,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/Ddjjz2vFXIm/",
         "sourceSheet": "JULIO",
         "sourceRow": 12,
-        "referenceKind": "Bosquejo"
+        "referenceKind": "Bosquejo",
+        "imageTarget": "img/cash-sol/CS-P04.png"
       },
       {
         "id": "CS-S05",
@@ -559,21 +780,22 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DfDdIZPAcnX/",
         "sourceSheet": "JULIO",
         "sourceRow": 13,
-        "referenceKind": "Bosquejo"
+        "referenceKind": "Bosquejo",
+        "imageTarget": "img/cash-sol/CS-S05.png"
       },
       {
         "id": "CS-V02",
         "date": "2026-11-20",
         "week": 2,
         "type": "Video",
-        "title": "De la duda al primer mensaje",
-        "headline": "DE LA DUDA\nAL PRIMER MENSAJE",
-        "caption": "De una idea a tu primer mensaje. 🦉💚 Si estás evaluando un préstamo, empieza por conocer tus opciones. Escríbenos «INFO» y consulta requisitos y condiciones.",
-        "objective": "Mostrar cómo iniciar una consulta por mensaje.",
-        "graphic": "Bosquejo de reel de 15 segundos: acercamiento al celular, aparición secuencial de mensajes y cierre de marca. La imagen es una referencia estática del concepto, no un video exportado.",
-        "image": "img/cash-sol/CS-V02.png",
-        "status": "Bosquejo",
-        "notes": "Bosquejo para revisar. La composición sigue la línea visual de los diseños previos de Cash Sol. El Excel indica video, pero no detalla tema ni guion. Se incluye una propuesta complementaria de Blink. Copy propuesto por Blink.",
+        "title": "Una joya, una posibilidad",
+        "headline": "Una joya, una posibilidad",
+        "caption": "",
+        "objective": "Presentar la evaluación de préstamos con garantía de joyas.",
+        "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
+        "image": "",
+        "status": "Guion listo",
+        "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
         "channels": "FB y Instagram",
         "ads": "No",
         "focus": "Valor",
@@ -584,8 +806,30 @@ window.BLINK_CLIENTS = [
         "sourceReference": "",
         "sourceSheet": "JULIO",
         "sourceRow": 14,
-        "referenceKind": "Bosquejo",
-        "script": "0–3 s · Plano detalle del celular: «Tengo una idea».\n3–7 s · Aparece el mensaje: «Quiero conocer mis opciones».\n7–11 s · Se escribe «Hola, Cash Sol». Búho señala el mensaje.\n11–15 s · Cierre con logo y CTA «Escríbenos INFO». Pie: «Consulta requisitos y condiciones»."
+        "referenceKind": "Story referencial de video",
+        "script": "Concepto: Una joya, una posibilidad\n\n[Inicio | Primer plano de una joya en su estuche]\n“Esa joya que guardas puede ayudarte a cubrir un imprevisto.”\n\n[Desarrollo | Persona a cámara y tomas de revisión de la joya]\n“En Cash Sol Perú puedes consultar por un préstamo con garantía de joyas. Solicita una evaluación y conoce el monto al que podrías acceder.”\n\n[Cierre | Persona cerrando el estuche]\n“Pregunta qué joyas aplican, cuáles son las condiciones y cómo recuperarlas al cancelar tu préstamo. Escríbenos y conoce el proceso.”\n\nTexto en pantalla: Descubre el valor de tu joya · Consulta por WhatsApp.",
+        "previousConceptReference": "img/cash-sol/CS-V02.png",
+        "concept": "Una joya, una posibilidad",
+        "scriptBlocks": [
+          {
+            "label": "Inicio",
+            "direction": "Primer plano de una joya en su estuche",
+            "text": "Esa joya que guardas puede ayudarte a cubrir un imprevisto."
+          },
+          {
+            "label": "Desarrollo",
+            "direction": "Persona a cámara y tomas de revisión de la joya",
+            "text": "En Cash Sol Perú puedes consultar por un préstamo con garantía de joyas. Solicita una evaluación y conoce el monto al que podrías acceder."
+          },
+          {
+            "label": "Cierre",
+            "direction": "Persona cerrando el estuche",
+            "text": "Pregunta qué joyas aplican, cuáles son las condiciones y cómo recuperarlas al cancelar tu préstamo. Escríbenos y conoce el proceso."
+          }
+        ],
+        "screenText": "Descubre el valor de tu joya · Consulta por WhatsApp.",
+        "referenceTemplate": true,
+        "imageTarget": "img/cash-sol/CS-V02.png"
       },
       {
         "id": "CS-S06",
@@ -610,7 +854,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DXRk8Znkh5f/",
         "sourceSheet": "JULIO",
         "sourceRow": 15,
-        "referenceKind": "Bosquejo"
+        "referenceKind": "Bosquejo",
+        "imageTarget": "img/cash-sol/CS-S06.png"
       },
       {
         "id": "CS-P05",
@@ -635,7 +880,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DbzR1i_Id-p/",
         "sourceSheet": "JULIO",
         "sourceRow": 17,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-P05.png"
       },
       {
         "id": "CS-S07",
@@ -660,7 +906,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/Db_DpW6RJsg/",
         "sourceSheet": "JULIO",
         "sourceRow": 18,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-S07.png"
       },
       {
         "id": "CS-P06",
@@ -685,7 +932,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DbozSyvj-dj/",
         "sourceSheet": "JULIO",
         "sourceRow": 19,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-P06.png"
       },
       {
         "id": "CS-S08",
@@ -710,21 +958,22 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DW1mc16Dk30/",
         "sourceSheet": "JULIO",
         "sourceRow": 20,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-S08.png"
       },
       {
         "id": "CS-V03",
         "date": "2026-11-27",
         "week": 3,
         "type": "Video",
-        "title": "Video · tema por definir",
-        "headline": "Tema por definir",
-        "caption": "Copy pendiente de definir.",
-        "objective": "Objetivo pendiente de definir.",
-        "graphic": "Dirección gráfica pendiente de definir.",
+        "title": "Preguntar también es cuidarte",
+        "headline": "Preguntar también es cuidarte",
+        "caption": "",
+        "objective": "Invitar a preguntar y entender las condiciones.",
+        "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
         "image": "",
-        "status": "Por desarrollar",
-        "notes": "El Excel indica video, pero no detalla tema ni guion. Copy no especificado en el Excel.",
+        "status": "Guion listo",
+        "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
         "channels": "FB y Instagram",
         "ads": "No",
         "focus": "Valor",
@@ -735,7 +984,34 @@ window.BLINK_CLIENTS = [
         "sourceReference": "",
         "sourceSheet": "JULIO",
         "sourceRow": 21,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Story referencial de video",
+        "concept": "Preguntar también es cuidarte",
+        "scriptBlocks": [
+          {
+            "label": "Inicio",
+            "direction": "Persona a cámara, tono directo",
+            "text": "Si vas a pedir un préstamo, hay preguntas que merecen una respuesta clara."
+          },
+          {
+            "label": "Desarrollo",
+            "direction": "Cada pregunta aparece en pantalla",
+            "text": "¿Cuánto voy a pagar? ¿Cuándo vence mi cuota? ¿Qué pasa si me atraso?"
+          },
+          {
+            "label": "Cambio de plano",
+            "direction": "",
+            "text": "En Cash Sol Perú queremos que consultes y entiendas las condiciones antes de tomar una decisión."
+          },
+          {
+            "label": "Cierre",
+            "direction": "",
+            "text": "Porque la confianza empieza con una conversación clara. Escríbenos y conversemos."
+          }
+        ],
+        "screenText": "Pregunta. Conoce. Decide. · Cash Sol Perú.",
+        "referenceTemplate": true,
+        "script": "Concepto: Preguntar también es cuidarte\n\n[Inicio | Persona a cámara, tono directo]\n“Si vas a pedir un préstamo, hay preguntas que merecen una respuesta clara.”\n\n[Desarrollo | Cada pregunta aparece en pantalla]\n“¿Cuánto voy a pagar? ¿Cuándo vence mi cuota? ¿Qué pasa si me atraso?”\n\n[Cambio de plano]\n“En Cash Sol Perú queremos que consultes y entiendas las condiciones antes de tomar una decisión.”\n\n[Cierre]\n“Porque la confianza empieza con una conversación clara. Escríbenos y conversemos.”\n\nTexto en pantalla: Pregunta. Conoce. Decide. · Cash Sol Perú.",
+        "imageTarget": "img/cash-sol/CS-V03.png"
       },
       {
         "id": "CS-S09",
@@ -760,7 +1036,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DQCNJlnEquG/",
         "sourceSheet": "JULIO",
         "sourceRow": 22,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-S09.png"
       },
       {
         "id": "CS-P07",
@@ -785,7 +1062,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DP1VK93EkFk/",
         "sourceSheet": "JULIO",
         "sourceRow": 24,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-P07.png"
       },
       {
         "id": "CS-S10",
@@ -810,7 +1088,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DaSuuNClLin/",
         "sourceSheet": "JULIO",
         "sourceRow": 25,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-S10.png"
       },
       {
         "id": "CS-P08",
@@ -835,7 +1114,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DNBQAphNOoU/",
         "sourceSheet": "JULIO",
         "sourceRow": 26,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-P08.png"
       },
       {
         "id": "CS-S11",
@@ -860,21 +1140,22 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DFIvBIPzThf/",
         "sourceSheet": "JULIO",
         "sourceRow": 27,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-S11.png"
       },
       {
         "id": "CS-V04",
         "date": "2026-12-04",
         "week": 4,
         "type": "Video",
-        "title": "Video · tema por definir",
-        "headline": "Tema por definir",
-        "caption": "Copy pendiente de definir.",
-        "objective": "Objetivo pendiente de definir.",
-        "graphic": "Dirección gráfica pendiente de definir.",
+        "title": "Detrás de cada consulta hay una historia",
+        "headline": "Detrás de cada consulta hay una historia",
+        "caption": "",
+        "objective": "Transmitir cercanía y orientación al cliente.",
+        "graphic": "Referencia vertical 1080 × 1920 px. Imagen reemplazable; el guion se presenta por tomas y texto en pantalla.",
         "image": "",
-        "status": "Por desarrollar",
-        "notes": "El Excel indica video, pero no detalla tema ni guion. Copy no especificado en el Excel.",
+        "status": "Guion listo",
+        "notes": "Guion proporcionado por Agencia Blink. El marco de referencia es vertical y no corresponde a un video producido.",
         "channels": "FB y Instagram",
         "ads": "No",
         "focus": "Beneficio",
@@ -885,7 +1166,29 @@ window.BLINK_CLIENTS = [
         "sourceReference": "",
         "sourceSheet": "JULIO",
         "sourceRow": 28,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Story referencial de video",
+        "concept": "Detrás de cada consulta hay una historia",
+        "scriptBlocks": [
+          {
+            "label": "Inicio",
+            "direction": "Tomas cotidianas de una persona trabajando y organizando sus gastos",
+            "text": "Detrás de un ‘quisiera información’ puede haber un imprevisto, una necesidad o un plan por cumplir."
+          },
+          {
+            "label": "Desarrollo",
+            "direction": "Persona a cámara, tono cálido",
+            "text": "Por eso, en Cash Sol Perú queremos empezar por escucharte. Saber qué necesitas y orientarte sobre las opciones que puedes consultar."
+          },
+          {
+            "label": "Cierre",
+            "direction": "Plano cercano",
+            "text": "Cuéntanos tu caso, resuelve tus dudas y decide con información. Cash Sol Perú: conversemos sobre tu próximo paso."
+          }
+        ],
+        "screenText": "Estamos para escucharte · Escríbenos por WhatsApp.",
+        "referenceTemplate": true,
+        "script": "Concepto: Detrás de cada consulta hay una historia\n\n[Inicio | Tomas cotidianas de una persona trabajando y organizando sus gastos]\n“Detrás de un ‘quisiera información’ puede haber un imprevisto, una necesidad o un plan por cumplir.”\n\n[Desarrollo | Persona a cámara, tono cálido]\n“Por eso, en Cash Sol Perú queremos empezar por escucharte. Saber qué necesitas y orientarte sobre las opciones que puedes consultar.”\n\n[Cierre | Plano cercano]\n“Cuéntanos tu caso, resuelve tus dudas y decide con información. Cash Sol Perú: conversemos sobre tu próximo paso.”\n\nTexto en pantalla: Estamos para escucharte · Escríbenos por WhatsApp.",
+        "imageTarget": "img/cash-sol/CS-V04.png"
       },
       {
         "id": "CS-S12",
@@ -910,7 +1213,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/Db3Wzs0kp4v/",
         "sourceSheet": "JULIO",
         "sourceRow": 29,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-S12.png"
       },
       {
         "id": "CS-P09",
@@ -935,7 +1239,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DfcqxMMjTPs/",
         "sourceSheet": "JULIO",
         "sourceRow": 31,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-P09.png"
       },
       {
         "id": "CS-S13",
@@ -960,7 +1265,8 @@ window.BLINK_CLIENTS = [
         "sourceReference": "https://www.instagram.com/p/DC4L2gVxt5K/",
         "sourceSheet": "JULIO",
         "sourceRow": 32,
-        "referenceKind": "Referencia externa"
+        "referenceKind": "Referencia externa",
+        "imageTarget": "img/cash-sol/CS-S13.png"
       }
     ]
   }
