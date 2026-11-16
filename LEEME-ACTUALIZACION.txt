@@ -1,0 +1,9 @@
+ACTUALIZACIÓN BLINK V3
+
+Este paquete está preparado para actualizar la web que ya tienes.
+
+1. Descomprime este ZIP.
+2. Sube sus archivos y carpetas a tu repositorio, reemplazando los existentes.
+3. CONSERVA la carpeta img/creative-visual que ya está en GitHub. Sus 20 imágenes no cambiaron y se excluyeron para reducir la descarga.
+
+Incluye todo el código actualizado, ambos clientes, los logos, el banner emergente y las imágenes de Cash Sol. No borres el repositorio antes de subirlo.
