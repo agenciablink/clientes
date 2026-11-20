@@ -1,0 +1,12 @@
+ACTUALIZACION ANDAMAR SUP - AGENCIA BLINK
+
+Este ZIP contiene solo 10 archivos nuevos o modificados del sitio.
+
+1. Abre tu repositorio de GitHub Pages.
+2. Copia el contenido del ZIP en la RAIZ del repositorio, respetando las carpetas.
+3. Reemplaza index.html y datos/clientes.js.
+4. Sube img/marcas/andamar-sup.png y las 7 nuevas imagenes de img/andamar-sup/.
+5. No borres ni reemplaces css, js/app.js, ni imagenes de otros clientes.
+6. Verifica el portal y abre la tarjeta ANDAMAR SUP. Acceso directo: #andamar-sup al final de la URL publica.
+
+NOTA: Son visuales de referencia sujetos a aprobacion. Los videos no estan incluidos como archivos de video, solo sus 4 portadas. Los copies finales y enlaces reales de WhatsApp estan pendientes de aprobacion/configuracion.
