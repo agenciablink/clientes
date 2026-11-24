@@ -1043,7 +1043,7 @@ window.BLINK_CLIENTS = [
         "caption": "Copy pendiente de definir.",
         "objective": "Mostrar facilidad de evaluación",
         "graphic": "Mockup de servicio mostrando solicitudes de evaluación",
-        "image": "",
+        "image": "img/cash-sol/CS-S08.png",
         "status": "Por desarrollar",
         "notes": "Copy no especificado en el Excel.",
         "channels": "FB y Instagram",
