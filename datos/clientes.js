@@ -741,7 +741,7 @@ window.BLINK_CLIENTS = [
         "caption": "Copy pendiente de definir.",
         "objective": "Promocionar servicio",
         "graphic": "Notificación de préstamo con cantidad de préstamo permitido base",
-        "image": "",
+        "image": "img/cash-sol/CS-S03.png",
         "status": "Realizado",
         "notes": "Semana anterior realizada, según la indicación de Agencia Blink. No implica confirmación de publicación. Copy no especificado en el Excel.",
         "channels": "FB y Instagram",
