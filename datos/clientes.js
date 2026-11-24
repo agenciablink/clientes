@@ -1015,7 +1015,7 @@ window.BLINK_CLIENTS = [
         "caption": "📍 Tu préstamo desde donde estés. 🦉💚\n\nEn casa, en tu negocio o mientras sigues con tu día: da el primer paso desde tu celular y conoce nuestras opciones de préstamo. 📲\n\n💬 Escríbenos «INFO» por WhatsApp y consulta requisitos y condiciones.\n\n#CashSol #PrestamosPeru #AtencionPorWhatsApp #EmprendedoresPeruanos #ImpulsaTuNegocio",
         "objective": "Promocionar servicio",
         "graphic": "Buho mostrando los beneficios de los prestamos",
-        "image": "",
+        "image": "img/cash-sol/CS-P06.png",
         "status": "Por desarrollar",
         "notes": "",
         "channels": "FB y Instagram",
