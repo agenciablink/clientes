@@ -959,7 +959,7 @@ window.BLINK_CLIENTS = [
         "caption": "🦉 ¿Ya aplicaste a un préstamo? 💚\n\nEse siguiente paso puede empezar con un mensaje. Cuéntanos qué necesitas y conoce las opciones que Cash Sol tiene para ti. 🤝\n\n📲 Escríbenos «QUIERO INFORMACIÓN» y consulta requisitos y condiciones.\n\n#CashSol #PrestamosPeru #EmprendedoresPeruanos #Imp",
         "objective": "Promocionar servicio",
         "graphic": "Búho con cartel promocionando el servicio",
-        "image": "",
+        "image": "img/cash-sol/CS-P05.png",
         "status": "Por desarrollar",
         "notes": "El copy del archivo termina con el hashtag incompleto «#Imp». Pendiente de completar.",
         "channels": "FB y Instagram",
