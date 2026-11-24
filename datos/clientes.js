@@ -1125,7 +1125,7 @@ window.BLINK_CLIENTS = [
         "caption": "Copy pendiente de definir.",
         "objective": "Promocionar web",
         "graphic": "Persona presionando web en celular",
-        "image": "",
+        "image": "img/cash-sol/CS-S09.png",
         "status": "Por desarrollar",
         "notes": "Copy no especificado en el Excel.",
         "channels": "FB y Instagram",
