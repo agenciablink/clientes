@@ -608,7 +608,7 @@ window.BLINK_CLIENTS = [
         "caption": "Copy pendiente de definir.",
         "objective": "Promocionar servicio de préstamos",
         "graphic": "Buho con mockup de web en formato vertical",
-        "image": "",
+        "image": "img/cash-sol/CS-S01.png",
         "status": "Realizado",
         "notes": "Semana anterior realizada, según la indicación de Agencia Blink. No implica confirmación de publicación. Copy no especificado en el Excel.",
         "channels": "FB y Instagram",
