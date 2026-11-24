@@ -987,7 +987,7 @@ window.BLINK_CLIENTS = [
         "caption": "Copy pendiente de definir.",
         "objective": "Promocionar canal de contacto",
         "graphic": "Mockup de celular con número de contacto",
-        "image": "",
+        "image": "img/cash-sol/CS-S07.png",
         "status": "Por desarrollar",
         "notes": "Copy no especificado en el Excel.",
         "channels": "FB y Instagram",
